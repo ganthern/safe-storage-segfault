@@ -1,0 +1,14 @@
+{
+  "name": "safe-storage-segfault",
+  "version": "1.0.0",
+  "description": "poc for segfaulting electron.safeStorage.isEncryptionAvailable()",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "nig@tutao.de",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "16.0.4"
+  }
+}
